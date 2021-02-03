@@ -14,6 +14,7 @@ Bu Araç SQL Injection güvenlik açığı tespiti ve istismarı için, nmap ve 
 
 1) SQL Açığı Tespiti
 2) SQL Açığı İstismarı
+Coded by Raven
 
 
 """)
